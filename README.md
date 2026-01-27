@@ -70,13 +70,6 @@ A full-featured PDF editor enabling users to edit, annotate, sign, and manage PD
 **Tech Used**
 `SwiftUI` `PDFKit` `Combine` `RevenueCat` `Firebase`
 
-**Screenshots**
-
-```md
-![A1 PDF Editor Screenshot 1](screenshots/a1_pdf_1.png)
-![A1 PDF Editor Screenshot 2](screenshots/a1_pdf_2.png)
-```
-
 ---
 
 ### 📝 **Word Office: Edit Word Document**
@@ -96,13 +89,6 @@ A productivity app for creating, editing, and managing Word documents on iOS.
 
 **Tech Used**
 `Swift` `SwiftUI` `MVVM` `Combine` `Realm`
-
-**Screenshots**
-
-```md
-![Word Office Screenshot 1](screenshots/word_office_1.png)
-![Word Office Screenshot 2](screenshots/word_office_2.png)
-```
 
 ---
 
@@ -124,13 +110,6 @@ An AI-powered storage cleaner that helps users free up space intelligently.
 **Tech Used**
 `SwiftUI` `PhotoKit` `Combine` `AI Models` `Superwall`
 
-**Screenshots**
-
-```md
-![iCleanup Screenshot 1](screenshots/icleanup_1.png)
-![iCleanup Screenshot 2](screenshots/icleanup_2.png)
-```
-
 ---
 
 ### 🔐 **Authenticator App**
@@ -150,13 +129,6 @@ A secure authenticator app for generating one-time passwords (OTP) and protectin
 
 **Tech Used**
 `Swift` `Security Framework` `Keychain` `MVVM`
-
-**Screenshots**
-
-```md
-![Authenticator Screenshot 1](screenshots/authenticator_1.png)
-![Authenticator Screenshot 2](screenshots/authenticator_2.png)
-```
 
 ---
 
