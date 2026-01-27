@@ -168,5 +168,3 @@ Feel free to ⭐ this repository or reach out — always happy to collaborate on
 * Create **badges** (Swift, iOS, App Store)
 * Add **GitHub Actions / Fastlane section**
 * Make a **short “Why Hire Me” section** for recruiters
-
-Just tell me what you want next 💪
